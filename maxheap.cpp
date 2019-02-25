@@ -5,7 +5,22 @@
 
 using namespace std;
 
+struct node{
+    int data;
+    node *left,*right;
+};
+
 int main()
 {
-    cout<<"hello world";
+
+
+
+
+
 }
+
+
+
+
+
+
