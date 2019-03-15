@@ -122,32 +122,32 @@ Coding_Pearls/fast:
 	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/build
 .PHONY : Coding_Pearls/fast
 
-maxheap.obj: maxheap.cpp.obj
+peakinarray.obj: peakinarray.cpp.obj
 
-.PHONY : maxheap.obj
+.PHONY : peakinarray.obj
 
 # target to build an object file
-maxheap.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj
-.PHONY : maxheap.cpp.obj
+peakinarray.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj
+.PHONY : peakinarray.cpp.obj
 
-maxheap.i: maxheap.cpp.i
+peakinarray.i: peakinarray.cpp.i
 
-.PHONY : maxheap.i
+.PHONY : peakinarray.i
 
 # target to preprocess a source file
-maxheap.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/maxheap.cpp.i
-.PHONY : maxheap.cpp.i
+peakinarray.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.i
+.PHONY : peakinarray.cpp.i
 
-maxheap.s: maxheap.cpp.s
+peakinarray.s: peakinarray.cpp.s
 
-.PHONY : maxheap.s
+.PHONY : peakinarray.s
 
 # target to generate assembly for a file
-maxheap.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/maxheap.cpp.s
-.PHONY : maxheap.cpp.s
+peakinarray.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.s
+.PHONY : peakinarray.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Coding_Pearls
 	@echo ... edit_cache
-	@echo ... maxheap.obj
-	@echo ... maxheap.i
-	@echo ... maxheap.s
+	@echo ... peakinarray.obj
+	@echo ... peakinarray.i
+	@echo ... peakinarray.s
 .PHONY : help
 
 

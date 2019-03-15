@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj"
+  "CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj"
   "Coding_Pearls.pdb"
   "Coding_Pearls.exe"
   "Coding_Pearls.exe.manifest"

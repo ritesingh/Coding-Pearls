@@ -56,27 +56,27 @@ include CMakeFiles/Coding_Pearls.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Coding_Pearls.dir/flags.make
 
-CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj: CMakeFiles/Coding_Pearls.dir/flags.make
-CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj: ../maxheap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Coding_Pearls.dir\maxheap.cpp.obj -c C:\Users\kumar\Desktop\Academic\Coding-Pearls\maxheap.cpp
+CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj: CMakeFiles/Coding_Pearls.dir/flags.make
+CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj: ../peakinarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Coding_Pearls.dir\peakinarray.cpp.obj -c C:\Users\kumar\Desktop\Academic\Coding-Pearls\peakinarray.cpp
 
-CMakeFiles/Coding_Pearls.dir/maxheap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Coding_Pearls.dir/maxheap.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kumar\Desktop\Academic\Coding-Pearls\maxheap.cpp > CMakeFiles\Coding_Pearls.dir\maxheap.cpp.i
+CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kumar\Desktop\Academic\Coding-Pearls\peakinarray.cpp > CMakeFiles\Coding_Pearls.dir\peakinarray.cpp.i
 
-CMakeFiles/Coding_Pearls.dir/maxheap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Coding_Pearls.dir/maxheap.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kumar\Desktop\Academic\Coding-Pearls\maxheap.cpp -o CMakeFiles\Coding_Pearls.dir\maxheap.cpp.s
+CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kumar\Desktop\Academic\Coding-Pearls\peakinarray.cpp -o CMakeFiles\Coding_Pearls.dir\peakinarray.cpp.s
 
 # Object files for target Coding_Pearls
 Coding_Pearls_OBJECTS = \
-"CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj"
+"CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj"
 
 # External object files for target Coding_Pearls
 Coding_Pearls_EXTERNAL_OBJECTS =
 
-Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/maxheap.cpp.obj
+Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/build.make
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/linklibs.rsp
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/objects1.rsp
