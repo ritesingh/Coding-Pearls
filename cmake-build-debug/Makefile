@@ -122,32 +122,32 @@ Coding_Pearls/fast:
 	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/build
 .PHONY : Coding_Pearls/fast
 
-npowk.obj: npowk.cpp.obj
+stringpermutations.obj: stringpermutations.cpp.obj
 
-.PHONY : npowk.obj
+.PHONY : stringpermutations.obj
 
 # target to build an object file
-npowk.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.obj
-.PHONY : npowk.cpp.obj
+stringpermutations.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj
+.PHONY : stringpermutations.cpp.obj
 
-npowk.i: npowk.cpp.i
+stringpermutations.i: stringpermutations.cpp.i
 
-.PHONY : npowk.i
+.PHONY : stringpermutations.i
 
 # target to preprocess a source file
-npowk.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.i
-.PHONY : npowk.cpp.i
+stringpermutations.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.i
+.PHONY : stringpermutations.cpp.i
 
-npowk.s: npowk.cpp.s
+stringpermutations.s: stringpermutations.cpp.s
 
-.PHONY : npowk.s
+.PHONY : stringpermutations.s
 
 # target to generate assembly for a file
-npowk.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.s
-.PHONY : npowk.cpp.s
+stringpermutations.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.s
+.PHONY : stringpermutations.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Coding_Pearls
 	@echo ... edit_cache
-	@echo ... npowk.obj
-	@echo ... npowk.i
-	@echo ... npowk.s
+	@echo ... stringpermutations.obj
+	@echo ... stringpermutations.i
+	@echo ... stringpermutations.s
 .PHONY : help
 
 

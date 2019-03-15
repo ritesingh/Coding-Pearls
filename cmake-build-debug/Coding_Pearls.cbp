@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/kumar/Desktop/Academic/Coding-Pearls/npowk.cpp">
+		<Unit filename="C:/Users/kumar/Desktop/Academic/Coding-Pearls/stringpermutations.cpp">
 			<Option target="Coding_Pearls"/>
 		</Unit>
 		<Unit filename="C:/Users/kumar/Desktop/Academic/Coding-Pearls/CMakeLists.txt">
