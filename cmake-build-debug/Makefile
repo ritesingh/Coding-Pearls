@@ -122,32 +122,32 @@ Coding_Pearls/fast:
 	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/build
 .PHONY : Coding_Pearls/fast
 
-peakinarray.obj: peakinarray.cpp.obj
+npowk.obj: npowk.cpp.obj
 
-.PHONY : peakinarray.obj
+.PHONY : npowk.obj
 
 # target to build an object file
-peakinarray.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj
-.PHONY : peakinarray.cpp.obj
+npowk.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.obj
+.PHONY : npowk.cpp.obj
 
-peakinarray.i: peakinarray.cpp.i
+npowk.i: npowk.cpp.i
 
-.PHONY : peakinarray.i
+.PHONY : npowk.i
 
 # target to preprocess a source file
-peakinarray.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.i
-.PHONY : peakinarray.cpp.i
+npowk.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.i
+.PHONY : npowk.cpp.i
 
-peakinarray.s: peakinarray.cpp.s
+npowk.s: npowk.cpp.s
 
-.PHONY : peakinarray.s
+.PHONY : npowk.s
 
 # target to generate assembly for a file
-peakinarray.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.s
-.PHONY : peakinarray.cpp.s
+npowk.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/npowk.cpp.s
+.PHONY : npowk.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Coding_Pearls
 	@echo ... edit_cache
-	@echo ... peakinarray.obj
-	@echo ... peakinarray.i
-	@echo ... peakinarray.s
+	@echo ... npowk.obj
+	@echo ... npowk.i
+	@echo ... npowk.s
 .PHONY : help
 
 

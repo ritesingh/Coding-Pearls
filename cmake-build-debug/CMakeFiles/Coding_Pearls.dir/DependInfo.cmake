@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/kumar/Desktop/Academic/Coding-Pearls/peakinarray.cpp" "C:/Users/kumar/Desktop/Academic/Coding-Pearls/cmake-build-debug/CMakeFiles/Coding_Pearls.dir/peakinarray.cpp.obj"
+  "C:/Users/kumar/Desktop/Academic/Coding-Pearls/npowk.cpp" "C:/Users/kumar/Desktop/Academic/Coding-Pearls/cmake-build-debug/CMakeFiles/Coding_Pearls.dir/npowk.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
