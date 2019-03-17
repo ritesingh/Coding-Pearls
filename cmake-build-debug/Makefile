@@ -122,32 +122,59 @@ Coding_Pearls/fast:
 	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/build
 .PHONY : Coding_Pearls/fast
 
-stringpermutations.obj: stringpermutations.cpp.obj
+jumping_numbers.obj: jumping_numbers.cpp.obj
 
-.PHONY : stringpermutations.obj
+.PHONY : jumping_numbers.obj
 
 # target to build an object file
-stringpermutations.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj
-.PHONY : stringpermutations.cpp.obj
+jumping_numbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj
+.PHONY : jumping_numbers.cpp.obj
 
-stringpermutations.i: stringpermutations.cpp.i
+jumping_numbers.i: jumping_numbers.cpp.i
 
-.PHONY : stringpermutations.i
+.PHONY : jumping_numbers.i
 
 # target to preprocess a source file
-stringpermutations.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.i
-.PHONY : stringpermutations.cpp.i
+jumping_numbers.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.i
+.PHONY : jumping_numbers.cpp.i
 
-stringpermutations.s: stringpermutations.cpp.s
+jumping_numbers.s: jumping_numbers.cpp.s
 
-.PHONY : stringpermutations.s
+.PHONY : jumping_numbers.s
 
 # target to generate assembly for a file
-stringpermutations.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.s
-.PHONY : stringpermutations.cpp.s
+jumping_numbers.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.s
+.PHONY : jumping_numbers.cpp.s
+
+petroldis.obj: petroldis.cpp.obj
+
+.PHONY : petroldis.obj
+
+# target to build an object file
+petroldis.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj
+.PHONY : petroldis.cpp.obj
+
+petroldis.i: petroldis.cpp.i
+
+.PHONY : petroldis.i
+
+# target to preprocess a source file
+petroldis.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.i
+.PHONY : petroldis.cpp.i
+
+petroldis.s: petroldis.cpp.s
+
+.PHONY : petroldis.s
+
+# target to generate assembly for a file
+petroldis.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.s
+.PHONY : petroldis.cpp.s
 
 # Help Target
 help:
@@ -158,9 +185,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Coding_Pearls
 	@echo ... edit_cache
-	@echo ... stringpermutations.obj
-	@echo ... stringpermutations.i
-	@echo ... stringpermutations.s
+	@echo ... jumping_numbers.obj
+	@echo ... jumping_numbers.i
+	@echo ... jumping_numbers.s
+	@echo ... petroldis.obj
+	@echo ... petroldis.i
+	@echo ... petroldis.s
 .PHONY : help
 
 

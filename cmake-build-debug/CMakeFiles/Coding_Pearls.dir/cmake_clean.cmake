@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj"
+  "CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj"
+  "CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj"
   "Coding_Pearls.pdb"
   "Coding_Pearls.exe"
   "Coding_Pearls.exe.manifest"

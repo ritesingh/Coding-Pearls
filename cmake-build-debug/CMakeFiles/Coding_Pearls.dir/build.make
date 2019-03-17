@@ -56,32 +56,47 @@ include CMakeFiles/Coding_Pearls.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Coding_Pearls.dir/flags.make
 
-CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj: CMakeFiles/Coding_Pearls.dir/flags.make
-CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj: ../stringpermutations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Coding_Pearls.dir\stringpermutations.cpp.obj -c C:\Users\kumar\Desktop\Academic\Coding-Pearls\stringpermutations.cpp
+CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj: CMakeFiles/Coding_Pearls.dir/flags.make
+CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj: ../petroldis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Coding_Pearls.dir\petroldis.cpp.obj -c C:\Users\kumar\Desktop\Academic\Coding-Pearls\petroldis.cpp
 
-CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kumar\Desktop\Academic\Coding-Pearls\stringpermutations.cpp > CMakeFiles\Coding_Pearls.dir\stringpermutations.cpp.i
+CMakeFiles/Coding_Pearls.dir/petroldis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Coding_Pearls.dir/petroldis.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\kumar\Desktop\Academic\Coding-Pearls\petroldis.cpp > CMakeFiles\Coding_Pearls.dir\petroldis.cpp.i
 
-CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kumar\Desktop\Academic\Coding-Pearls\stringpermutations.cpp -o CMakeFiles\Coding_Pearls.dir\stringpermutations.cpp.s
+CMakeFiles/Coding_Pearls.dir/petroldis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Coding_Pearls.dir/petroldis.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\kumar\Desktop\Academic\Coding-Pearls\petroldis.cpp -o CMakeFiles\Coding_Pearls.dir\petroldis.cpp.s
+
+CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj: CMakeFiles/Coding_Pearls.dir/flags.make
+CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj: ../jumping\ numbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Coding_Pearls.dir\jumping_numbers.cpp.obj -c "C:\Users\kumar\Desktop\Academic\Coding-Pearls\jumping numbers.cpp"
+
+CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\kumar\Desktop\Academic\Coding-Pearls\jumping numbers.cpp" > CMakeFiles\Coding_Pearls.dir\jumping_numbers.cpp.i
+
+CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\kumar\Desktop\Academic\Coding-Pearls\jumping numbers.cpp" -o CMakeFiles\Coding_Pearls.dir\jumping_numbers.cpp.s
 
 # Object files for target Coding_Pearls
 Coding_Pearls_OBJECTS = \
-"CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj"
+"CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj" \
+"CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj"
 
 # External object files for target Coding_Pearls
 Coding_Pearls_EXTERNAL_OBJECTS =
 
-Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/stringpermutations.cpp.obj
+Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj
+Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/build.make
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/linklibs.rsp
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/objects1.rsp
 Coding_Pearls.exe: CMakeFiles/Coding_Pearls.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Coding_Pearls.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\kumar\Desktop\Academic\Coding-Pearls\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Coding_Pearls.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Coding_Pearls.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
