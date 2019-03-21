@@ -14,11 +14,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43d70f56-6fba-4480-98cd-0d5d7cd4e3d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jumping numbers.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letterphone.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nqueenpro.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/petroldis.cpp" afterDir="false" />
+    <list default="true" id="43d70f56-6fba-4480-98cd-0d5d7cd4e3d6" name="Default Changelist" comment="day 4">
+      <change afterPath="$PROJECT_DIR$/allpermstr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/joseph problem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lllmerge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Coding_Pearls.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Coding_Pearls.dir/CXX.includecache" afterDir="false" />
@@ -35,6 +35,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Coding_Pearls.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Coding_Pearls.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Coding_Pearls.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Coding_Pearls.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jumping numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/jumping numbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letterphone.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/letterphone.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,40 +50,42 @@
     <session id="-1172152462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="29" />
-          <entry key="txt" value="4" />
+          <entry key="cpp" value="41" />
+          <entry key="h" value="1" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="4" />
-          <entry key="ObjectiveC" value="29" />
+          <entry key="CMakeLists.txt" value="6" />
+          <entry key="ObjectiveC" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="3606" />
-          <entry key="txt" value="69" />
+          <entry key="cpp" value="7093" />
+          <entry key="txt" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="15" />
-          <entry key="ObjectiveC" value="3606" />
-          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="CMakeLists.txt" value="34" />
+          <entry key="ObjectiveC" value="7093" />
+          <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
     </session>
@@ -92,31 +96,13 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/letterphone.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/petroldis.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jumping numbers.cpp">
+        <entry file="file://$PROJECT_DIR$/allpermstr.cpp">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -135,9 +121,13 @@
         <option value="$PROJECT_DIR$/subsetcal.cpp" />
         <option value="$PROJECT_DIR$/stringpermutations.cpp" />
         <option value="$PROJECT_DIR$/nqueenpro.cpp" />
-        <option value="$PROJECT_DIR$/letterphone.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/petroldis.cpp" />
+        <option value="$PROJECT_DIR$/jumping numbers.cpp" />
+        <option value="$PROJECT_DIR$/lllmerge.cpp" />
+        <option value="$PROJECT_DIR$/joseph problem.cpp" />
+        <option value="$PROJECT_DIR$/letterphone.cpp" />
+        <option value="$PROJECT_DIR$/try.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -147,10 +137,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -227,7 +217,11 @@
       <workItem from="1552621466891" duration="12878000" />
       <workItem from="1552662953935" duration="1859000" />
       <workItem from="1552729169495" duration="1208000" />
-      <workItem from="1552813707151" duration="1976000" />
+      <workItem from="1552813707151" duration="5866000" />
+      <workItem from="1552901432093" duration="676000" />
+      <workItem from="1552942582091" duration="10829000" />
+      <workItem from="1553015168955" duration="11376000" />
+      <workItem from="1553171766019" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1551093584593</created>
@@ -257,18 +251,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552631122152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day 4">
+      <created>1552817134587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552817134587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27339000" />
+    <option name="totallyTimeSpent" value="54765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.06308725" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20083103" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3101983" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -276,13 +277,13 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.26524824" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="CMake" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2679083" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info active="true" anchor="bottom" id="CMake" order="8" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32765958" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32378224" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -290,7 +291,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.06308725" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.09060403" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3101983" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -300,7 +301,7 @@
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.26524824" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="CMake" order="8" />
+      <window_info anchor="bottom" id="CMake" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -322,7 +323,8 @@
     <MESSAGE value="day 2" />
     <MESSAGE value="day 2 npowk" />
     <MESSAGE value="day 2 strper" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 2 strper" />
+    <MESSAGE value="day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp" />
@@ -347,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npowk.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nqueenpro.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -375,28 +370,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/npowk.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petroldis.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jumping numbers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/stdc++.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lllmerge.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/joseph problem.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/letterphone.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/petroldis.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jumping numbers.cpp">
+    <entry file="file://$PROJECT_DIR$/allpermstr.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

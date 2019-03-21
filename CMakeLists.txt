@@ -3,4 +3,4 @@ project(Coding_Pearls)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Coding_Pearls petroldis.cpp "jumping numbers.cpp")
+add_executable(Coding_Pearls allpermstr.cpp)

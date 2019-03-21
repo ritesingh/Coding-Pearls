@@ -122,59 +122,32 @@ Coding_Pearls/fast:
 	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/build
 .PHONY : Coding_Pearls/fast
 
-jumping_numbers.obj: jumping_numbers.cpp.obj
+allpermstr.obj: allpermstr.cpp.obj
 
-.PHONY : jumping_numbers.obj
-
-# target to build an object file
-jumping_numbers.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.obj
-.PHONY : jumping_numbers.cpp.obj
-
-jumping_numbers.i: jumping_numbers.cpp.i
-
-.PHONY : jumping_numbers.i
-
-# target to preprocess a source file
-jumping_numbers.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.i
-.PHONY : jumping_numbers.cpp.i
-
-jumping_numbers.s: jumping_numbers.cpp.s
-
-.PHONY : jumping_numbers.s
-
-# target to generate assembly for a file
-jumping_numbers.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/jumping_numbers.cpp.s
-.PHONY : jumping_numbers.cpp.s
-
-petroldis.obj: petroldis.cpp.obj
-
-.PHONY : petroldis.obj
+.PHONY : allpermstr.obj
 
 # target to build an object file
-petroldis.cpp.obj:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.obj
-.PHONY : petroldis.cpp.obj
+allpermstr.cpp.obj:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/allpermstr.cpp.obj
+.PHONY : allpermstr.cpp.obj
 
-petroldis.i: petroldis.cpp.i
+allpermstr.i: allpermstr.cpp.i
 
-.PHONY : petroldis.i
+.PHONY : allpermstr.i
 
 # target to preprocess a source file
-petroldis.cpp.i:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.i
-.PHONY : petroldis.cpp.i
+allpermstr.cpp.i:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/allpermstr.cpp.i
+.PHONY : allpermstr.cpp.i
 
-petroldis.s: petroldis.cpp.s
+allpermstr.s: allpermstr.cpp.s
 
-.PHONY : petroldis.s
+.PHONY : allpermstr.s
 
 # target to generate assembly for a file
-petroldis.cpp.s:
-	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/petroldis.cpp.s
-.PHONY : petroldis.cpp.s
+allpermstr.cpp.s:
+	$(MAKE) -f CMakeFiles\Coding_Pearls.dir\build.make CMakeFiles/Coding_Pearls.dir/allpermstr.cpp.s
+.PHONY : allpermstr.cpp.s
 
 # Help Target
 help:
@@ -185,12 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Coding_Pearls
 	@echo ... edit_cache
-	@echo ... jumping_numbers.obj
-	@echo ... jumping_numbers.i
-	@echo ... jumping_numbers.s
-	@echo ... petroldis.obj
-	@echo ... petroldis.i
-	@echo ... petroldis.s
+	@echo ... allpermstr.obj
+	@echo ... allpermstr.i
+	@echo ... allpermstr.s
 .PHONY : help
 
 
